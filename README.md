@@ -14,7 +14,6 @@ Oxidiff is a high-performance, streaming-based binary diffing and patching tool 
 ### Prerequisites
 
 - Rust 1.55 or later
-- Cargo (usually comes with Rust)
 
 ## Usage
 
